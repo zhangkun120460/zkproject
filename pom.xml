@@ -22,7 +22,7 @@
 		<!--mybatis版本-->
 		<mybatis-spring.version>1.3.2</mybatis-spring.version>
 		<!--mybatis 分页插件版本-->
-		<mybatis-pagehelper.version>4.1.0</mybatis-pagehelper.version>
+		<mybatis-pagehelper.version>5.3.1</mybatis-pagehelper.version>
 
 	</properties>
 
